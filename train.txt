@@ -57392,6 +57392,8 @@ I am stunned suddenly;surprise
 I am terrified again;fear
 I am so glad right now;joy
 You make me feel loved today;love
+I love you;love
+I love her;love
 I am afraid something will happen about this;fear
 I feel broken today;sadness
 I miss you again;sadness
